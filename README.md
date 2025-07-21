@@ -4,6 +4,7 @@ This project loads and cleans streaming platform data from Amazon Prime, Disney+
 ## Dataset
 
 - Data sourced from CSV files for each platform (`amazon_prime_titles.csv`, `disney_plus_titles.csv`, `hulu_titles.csv`, `netflix_titles.csv`).
+- The datasets were downloaded from [Kaggle](https://www.kaggle.com/), which provides public data on streaming platform content.
 
 ## Technologies Used
 
